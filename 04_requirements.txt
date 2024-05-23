@@ -1,0 +1,12 @@
+# pip instal pipreqs
+# run pipreqs it will give all the versions of the libraries that are use in the app.
+docx==0.2.4
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.19.0
+PyPDF2==3.0.1
+python_docx==1.1.2
+scikit_learn==1.5.0
+seaborn==0.13.2
+wordcloud==1.9.3
